@@ -9,3 +9,6 @@ JavaScript를 사용한 day/night button 추가
 backgroundColor='balck';
 
 color='white';
+
+2021-04-16
+비교연산자와 if 조건문의 활용 
